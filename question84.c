@@ -1,3 +1,4 @@
+//Q84: Convert a lowercase string to uppercase without using built-in function.
 #include <stdio.h>
 #include<string.h>
 int main() {
