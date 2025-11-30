@@ -1,3 +1,4 @@
+//Q86: Check if a string is a palindrome.
 #include <stdio.h>
 #include <string.h>
 
