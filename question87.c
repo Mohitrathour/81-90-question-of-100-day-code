@@ -1,3 +1,4 @@
+//Q87: Count spaces, digits, and special characters in a string.
 #include <stdio.h>
 
 int main() {
